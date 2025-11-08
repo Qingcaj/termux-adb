@@ -1,4 +1,4 @@
-# termux-adb
+ # termux-adb
 
 Run adb and fastboot in Termux without root permissions!
 
